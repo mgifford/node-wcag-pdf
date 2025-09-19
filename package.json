@@ -39,9 +39,9 @@
     "tap": "14.11.0"
   },
   "dependencies": {
-    "axios": "0.21.1",
+    "axios": "1.12.0",
     "cheerio": "1.0.0-rc.5",
-    "form-data": "3.0.0",
+    "form-data": "3.0.4",
     "valid-url": "1.0.9"
   }
 }
